@@ -25,3 +25,4 @@ pip install -r requirements.txt
 ## Questions / Uncertainties
 
 - What if I want to make the profile picture round?
+- How to use a two column layout?
