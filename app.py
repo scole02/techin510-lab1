@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Ian Chen - Engineer, Educator, Entrepreneur",
-    page_icon="👨🏻‍💻",
+    page_title="Sam Cole, B.S. Computer Engineering Cal Poly SLO",
+    page_icon="👨🏻",
     layout="centered",  # centered or wide
     initial_sidebar_state="auto",
 )
@@ -29,10 +29,10 @@ with col1:
 with col2:
     st.markdown(
         """
-    # Ian Chen (He/Him)
+    # Sam Cole (He/Him)
                 
-    - Instructor at [Lighthouse Labs](https://www.lighthouselabs.ca/)
-    - Engineer at [Clio](https://www.clio.com/)
+    - B.S. Computer Engineering, California Polytechnic University San Luis Obispo 2022
+    - M.S. Technology Innovation (Robotics), University of Washington 2025
     """
     )
 
